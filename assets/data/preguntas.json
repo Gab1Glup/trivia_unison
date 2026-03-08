@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "enunciado": "¿Qué etiqueta se usa para el título principal en HTML?",
+    "opciones": [
+      "<p>",
+      "<h1>",
+      "<div>",
+      "<title>"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Web",
+    "dificultad": "facil"
+  },
+  {
+    "id": 2,
+    "enunciado": "¿Qué lenguaje se usa para estilos en páginas web?",
+    "opciones": [
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "SQL"
+    ],
+    "indiceCorrecto": 2,
+    "categoria": "Web",
+    "dificultad": "facil"
+  },
+  {
+    "id": 3,
+    "enunciado": "¿Qué lenguaje hace interactivas las páginas web?",
+    "opciones": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "C++"
+    ],
+    "indiceCorrecto": 2,
+    "categoria": "Web",
+    "dificultad": "facil"
+  },
+  {
+    "id": 4,
+    "enunciado": "¿Qué símbolo inicia un comentario en Python?",
+    "opciones": [
+      "//",
+      "#",
+      "--",
+      "/*"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Python",
+    "dificultad": "facil"
+  },
+  {
+    "id": 5,
+    "enunciado": "¿Qué extensión usan los archivos Python?",
+    "opciones": [
+      ".py",
+      ".html",
+      ".css",
+      ".java"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Python",
+    "dificultad": "facil"
+  },
+  {
+    "id": 6,
+    "enunciado": "¿Qué comando imprime texto en Python?",
+    "opciones": [
+      "echo()",
+      "show()",
+      "print()",
+      "write()"
+    ],
+    "indiceCorrecto": 2,
+    "categoria": "Python",
+    "dificultad": "facil"
+  },
+  {
+    "id": 7,
+    "enunciado": "¿Qué estructura repite instrucciones?",
+    "opciones": [
+      "if",
+      "for",
+      "switch",
+      "case"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 8,
+    "enunciado": "¿Qué estructura se usa para tomar decisiones?",
+    "opciones": [
+      "loop",
+      "if",
+      "repeat",
+      "goto"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 9,
+    "enunciado": "¿Qué es una variable?",
+    "opciones": [
+      "Un hardware",
+      "Un lugar para guardar datos",
+      "Un virus",
+      "Un compilador"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 10,
+    "enunciado": "¿Qué símbolo se usa para asignar valores?",
+    "opciones": [
+      "+",
+      "=",
+      "*",
+      "%"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 11,
+    "enunciado": "¿Qué tipo de dato guarda verdadero o falso?",
+    "opciones": [
+      "String",
+      "Integer",
+      "Boolean",
+      "Float"
+    ],
+    "indiceCorrecto": 2,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 12,
+    "enunciado": "¿Qué tipo de dato guarda texto?",
+    "opciones": [
+      "String",
+      "Boolean",
+      "Float",
+      "Array"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 13,
+    "enunciado": "¿Qué estructura guarda varios valores en Python?",
+    "opciones": [
+      "int",
+      "float",
+      "bool",
+      "list"
+    ],
+    "indiceCorrecto": 3,
+    "categoria": "Python",
+    "dificultad": "facil"
+  },
+  {
+    "id": 14,
+    "enunciado": "¿Qué es un algoritmo?",
+    "opciones": [
+      "Un virus",
+      "Un conjunto de pasos para resolver un problema",
+      "Un lenguaje",
+      "Un hardware"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 15,
+    "enunciado": "¿Qué herramienta controla versiones de código?",
+    "opciones": [
+      "Excel",
+      "Git",
+      "Chrome",
+      "Photoshop"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Herramientas",
+    "dificultad": "facil"
+  },
+  {
+    "id": 16,
+    "enunciado": "¿Qué comando inicia un repositorio Git?",
+    "opciones": [
+      "git start",
+      "git create",
+      "git init",
+      "git new"
+    ],
+    "indiceCorrecto": 2,
+    "categoria": "Herramientas",
+    "dificultad": "facil"
+  },
+  {
+    "id": 17,
+    "enunciado": "¿Qué comando guarda cambios en Git?",
+    "opciones": [
+      "git push",
+      "git commit",
+      "git save",
+      "git store"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Herramientas",
+    "dificultad": "facil"
+  },
+  {
+    "id": 18,
+    "enunciado": "¿Qué base de datos usa SQL?",
+    "opciones": [
+      "Linux",
+      "MySQL",
+      "Chrome",
+      "Photoshop"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Bases de Datos",
+    "dificultad": "facil"
+  },
+  {
+    "id": 19,
+    "enunciado": "¿Qué comando SQL obtiene datos?",
+    "opciones": [
+      "INSERT",
+      "DELETE",
+      "SELECT",
+      "UPDATE"
+    ],
+    "indiceCorrecto": 2,
+    "categoria": "Bases de Datos",
+    "dificultad": "facil"
+  },
+  {
+    "id": 20,
+    "enunciado": "¿Qué comando SQL agrega datos?",
+    "opciones": [
+      "INSERT",
+      "SELECT",
+      "DROP",
+      "SHOW"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Bases de Datos",
+    "dificultad": "facil"
+  },
+  {
+    "id": 21,
+    "enunciado": "¿Qué framework usa Dart para crear apps móviles?",
+    "opciones": [
+      "React",
+      "Angular",
+      "Vue",
+      "Flutter"
+    ],
+    "indiceCorrecto": 3,
+    "categoria": "Mobile",
+    "dificultad": "facil"
+  },
+  {
+    "id": 22,
+    "enunciado": "¿Qué archivo define estilos en CSS?",
+    "opciones": [
+      ".css",
+      ".html",
+      ".py",
+      ".sql"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Web",
+    "dificultad": "facil"
+  },
+  {
+    "id": 23,
+    "enunciado": "¿Qué etiqueta crea un párrafo en HTML?",
+    "opciones": [
+      "<p>",
+      "<h1>",
+      "<span>",
+      "<div>"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Web",
+    "dificultad": "facil"
+  },
+  {
+    "id": 24,
+    "enunciado": "¿Qué estructura repite mientras se cumpla una condición?",
+    "opciones": [
+      "for",
+      "if",
+      "while",
+      "case"
+    ],
+    "indiceCorrecto": 2,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 25,
+    "enunciado": "¿Qué operador suma números?",
+    "opciones": [
+      "+",
+      "-",
+      "/",
+      "*"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 26,
+    "enunciado": "¿Qué operador resta números?",
+    "opciones": [
+      "+",
+      "-",
+      "*",
+      "/"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 27,
+    "enunciado": "¿Qué operador multiplica números?",
+    "opciones": [
+      "+",
+      "-",
+      "*",
+      "/"
+    ],
+    "indiceCorrecto": 2,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 28,
+    "enunciado": "¿Qué operador divide números?",
+    "opciones": [
+      "+",
+      "-",
+      "*",
+      "/"
+    ],
+    "indiceCorrecto": 3,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 29,
+    "enunciado": "¿Qué estructura almacena pares clave-valor en Python?",
+    "opciones": [
+      "list",
+      "set",
+      "dictionary",
+      "tuple"
+    ],
+    "indiceCorrecto": 2,
+    "categoria": "Python",
+    "dificultad": "facil"
+  },
+  {
+    "id": 30,
+    "enunciado": "¿Qué comando instala paquetes en Python?",
+    "opciones": [
+      "pip install",
+      "python add",
+      "install py",
+      "pip add"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Python",
+    "dificultad": "facil"
+  },
+  {
+    "id": 31,
+    "enunciado": "¿Qué editor de código es muy popular?",
+    "opciones": [
+      "Word",
+      "VS Code",
+      "Excel",
+      "PowerPoint"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Herramientas",
+    "dificultad": "facil"
+  },
+  {
+    "id": 32,
+    "enunciado": "¿Qué comando elimina datos en SQL?",
+    "opciones": [
+      "INSERT",
+      "DELETE",
+      "SELECT",
+      "CREATE"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Bases de Datos",
+    "dificultad": "facil"
+  },
+  {
+    "id": 33,
+    "enunciado": "¿Qué comando actualiza datos en SQL?",
+    "opciones": [
+      "UPDATE",
+      "SELECT",
+      "DROP",
+      "INSERT"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Bases de Datos",
+    "dificultad": "facil"
+  },
+  {
+    "id": 34,
+    "enunciado": "¿Qué estructura ejecuta varias opciones según un valor?",
+    "opciones": [
+      "if",
+      "switch",
+      "while",
+      "for"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 35,
+    "enunciado": "¿Qué extensión tienen archivos HTML?",
+    "opciones": [
+      ".html",
+      ".py",
+      ".js",
+      ".css"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Web",
+    "dificultad": "facil"
+  },
+  {
+    "id": 36,
+    "enunciado": "¿Qué etiqueta HTML crea un enlace?",
+    "opciones": [
+      "<a>",
+      "<link>",
+      "<href>",
+      "<url>"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Web",
+    "dificultad": "facil"
+  },
+  {
+    "id": 37,
+    "enunciado": "¿Qué función calcula longitud de lista en Python?",
+    "opciones": [
+      "count()",
+      "size()",
+      "length()",
+      "len()"
+    ],
+    "indiceCorrecto": 3,
+    "categoria": "Python",
+    "dificultad": "facil"
+  },
+  {
+    "id": 38,
+    "enunciado": "¿Qué símbolo inicia bloque en muchos lenguajes?",
+    "opciones": [
+      "{",
+      "(",
+      "[",
+      "<"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 39,
+    "enunciado": "¿Qué estructura guarda datos ordenados?",
+    "opciones": [
+      "Array",
+      "Boolean",
+      "Float",
+      "Char"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 40,
+    "enunciado": "¿Qué lenguaje se usa mucho en ciencia de datos?",
+    "opciones": [
+      "Python",
+      "HTML",
+      "CSS",
+      "SQL"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Python",
+    "dificultad": "facil"
+  },
+  {
+    "id": 41,
+    "enunciado": "¿Qué significa API?",
+    "opciones": [
+      "Application Programming Interface",
+      "Advanced Program Internet",
+      "Application Process Input",
+      "Automated Program Interface"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 42,
+    "enunciado": "¿Qué lenguaje usa React principalmente?",
+    "opciones": [
+      "Python",
+      "JavaScript",
+      "C++",
+      "Java"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Web",
+    "dificultad": "facil"
+  },
+  {
+    "id": 43,
+    "enunciado": "¿Qué comando Git envía cambios al repositorio remoto?",
+    "opciones": [
+      "git push",
+      "git pull",
+      "git send",
+      "git upload"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Herramientas",
+    "dificultad": "facil"
+  },
+  {
+    "id": 44,
+    "enunciado": "¿Qué comando Git descarga cambios?",
+    "opciones": [
+      "git push",
+      "git pull",
+      "git clone",
+      "git init"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Herramientas",
+    "dificultad": "facil"
+  },
+  {
+    "id": 45,
+    "enunciado": "¿Qué comando crea copia de repositorio remoto?",
+    "opciones": [
+      "git fork",
+      "git copy",
+      "git clone",
+      "git pull"
+    ],
+    "indiceCorrecto": 2,
+    "categoria": "Herramientas",
+    "dificultad": "facil"
+  },
+  {
+    "id": 46,
+    "enunciado": "¿Qué etiqueta HTML muestra imagen?",
+    "opciones": [
+      "<img>",
+      "<pic>",
+      "<src>",
+      "<image>"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Web",
+    "dificultad": "facil"
+  },
+  {
+    "id": 47,
+    "enunciado": "¿Qué propiedad CSS cambia color del texto?",
+    "opciones": [
+      "font-color",
+      "color",
+      "text-style",
+      "font-style"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Web",
+    "dificultad": "facil"
+  },
+  {
+    "id": 48,
+    "enunciado": "¿Qué propiedad CSS cambia tamaño de texto?",
+    "opciones": [
+      "font-size",
+      "text-size",
+      "size",
+      "font-style"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Web",
+    "dificultad": "facil"
+  },
+  {
+    "id": 49,
+    "enunciado": "¿Qué propiedad CSS cambia fondo?",
+    "opciones": [
+      "background",
+      "color",
+      "style",
+      "fill"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Web",
+    "dificultad": "facil"
+  },
+  {
+    "id": 50,
+    "enunciado": "¿Qué etiqueta HTML crea lista ordenada?",
+    "opciones": [
+      "<ul>",
+      "<ol>",
+      "<li>",
+      "<list>"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Web",
+    "dificultad": "facil"
+  },
+  {
+    "id": 51,
+    "enunciado": "¿Qué etiqueta HTML crea lista desordenada?",
+    "opciones": [
+      "<ul>",
+      "<ol>",
+      "<li>",
+      "<list>"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Web",
+    "dificultad": "facil"
+  },
+  {
+    "id": 52,
+    "enunciado": "¿Qué etiqueta HTML define elemento de lista?",
+    "opciones": [
+      "<ul>",
+      "<li>",
+      "<ol>",
+      "<dl>"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Web",
+    "dificultad": "facil"
+  },
+  {
+    "id": 53,
+    "enunciado": "¿Qué tipo de bucle tiene contador?",
+    "opciones": [
+      "while",
+      "for",
+      "if",
+      "switch"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 54,
+    "enunciado": "¿Qué palabra define función en Python?",
+    "opciones": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Python",
+    "dificultad": "facil"
+  },
+  {
+    "id": 55,
+    "enunciado": "¿Qué símbolo compara igualdad?",
+    "opciones": [
+      "=",
+      "==",
+      "!=",
+      "<>"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 56,
+    "enunciado": "¿Qué operador significa diferente?",
+    "opciones": [
+      "==",
+      "=",
+      "!=",
+      "<>"
+    ],
+    "indiceCorrecto": 2,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 57,
+    "enunciado": "¿Qué lenguaje compila a bytecode JVM?",
+    "opciones": [
+      "Java",
+      "Python",
+      "C",
+      "Go"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 58,
+    "enunciado": "¿Qué base de datos es NoSQL?",
+    "opciones": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Oracle"
+    ],
+    "indiceCorrecto": 2,
+    "categoria": "Bases de Datos",
+    "dificultad": "facil"
+  },
+  {
+    "id": 59,
+    "enunciado": "¿Qué estructura almacena valores únicos en Python?",
+    "opciones": [
+      "set",
+      "list",
+      "tuple",
+      "dict"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Python",
+    "dificultad": "facil"
+  },
+  {
+    "id": 60,
+    "enunciado": "¿Qué comando crea tabla en SQL?",
+    "opciones": [
+      "CREATE TABLE",
+      "INSERT",
+      "SELECT",
+      "ADD"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Bases de Datos",
+    "dificultad": "facil"
+  },
+  {
+    "id": 61,
+    "enunciado": "¿Qué comando elimina tabla SQL?",
+    "opciones": [
+      "DROP TABLE",
+      "DELETE",
+      "REMOVE",
+      "CLEAR"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Bases de Datos",
+    "dificultad": "facil"
+  },
+  {
+    "id": 62,
+    "enunciado": "¿Qué comando muestra tablas en MySQL?",
+    "opciones": [
+      "SHOW TABLES",
+      "LIST TABLES",
+      "DISPLAY TABLES",
+      "VIEW TABLES"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Bases de Datos",
+    "dificultad": "facil"
+  },
+  {
+    "id": 63,
+    "enunciado": "¿Qué lenguaje usa Flutter?",
+    "opciones": [
+      "Java",
+      "Dart",
+      "Kotlin",
+      "Swift"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Mobile",
+    "dificultad": "facil"
+  },
+  {
+    "id": 64,
+    "enunciado": "¿Qué widget Flutter es básico para UI?",
+    "opciones": [
+      "Container",
+      "Box",
+      "Layout",
+      "Frame"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Mobile",
+    "dificultad": "facil"
+  },
+  {
+    "id": 65,
+    "enunciado": "¿Qué widget muestra texto en Flutter?",
+    "opciones": [
+      "Text",
+      "Label",
+      "String",
+      "Title"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Mobile",
+    "dificultad": "facil"
+  },
+  {
+    "id": 66,
+    "enunciado": "¿Qué widget organiza elementos verticalmente?",
+    "opciones": [
+      "Column",
+      "Row",
+      "Stack",
+      "Grid"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Mobile",
+    "dificultad": "facil"
+  },
+  {
+    "id": 67,
+    "enunciado": "¿Qué widget organiza elementos horizontalmente?",
+    "opciones": [
+      "Column",
+      "Row",
+      "Stack",
+      "Grid"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Mobile",
+    "dificultad": "facil"
+  },
+  {
+    "id": 68,
+    "enunciado": "¿Qué widget crea botón en Flutter?",
+    "opciones": [
+      "Button",
+      "ElevatedButton",
+      "PressButton",
+      "ClickButton"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Mobile",
+    "dificultad": "facil"
+  },
+  {
+    "id": 69,
+    "enunciado": "¿Qué archivo configura dependencias Flutter?",
+    "opciones": [
+      "pubspec.yaml",
+      "config.json",
+      "flutter.xml",
+      "packages.txt"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Mobile",
+    "dificultad": "facil"
+  },
+  {
+    "id": 70,
+    "enunciado": "¿Qué comando ejecuta app Flutter?",
+    "opciones": [
+      "flutter start",
+      "flutter run",
+      "flutter exec",
+      "flutter build"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Mobile",
+    "dificultad": "facil"
+  },
+  {
+    "id": 71,
+    "enunciado": "¿Qué significa UI?",
+    "opciones": [
+      "User Interface",
+      "User Internet",
+      "Universal Input",
+      "Unit Interface"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 72,
+    "enunciado": "¿Qué significa UX?",
+    "opciones": [
+      "User Extension",
+      "User Experience",
+      "Universal Experience",
+      "User Execution"
+    ],
+    "indiceCorrecto": 1,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 73,
+    "enunciado": "¿Qué lenguaje se usa en Android nativo?",
+    "opciones": [
+      "Kotlin",
+      "Swift",
+      "Dart",
+      "Ruby"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Mobile",
+    "dificultad": "facil"
+  },
+  {
+    "id": 74,
+    "enunciado": "¿Qué lenguaje se usa en iOS nativo?",
+    "opciones": [
+      "Swift",
+      "Kotlin",
+      "Java",
+      "Dart"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Mobile",
+    "dificultad": "facil"
+  },
+  {
+    "id": 75,
+    "enunciado": "¿Qué símbolo termina instrucción en Java?",
+    "opciones": [
+      ";",
+      ";",
+      ":",
+      "."
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 76,
+    "enunciado": "¿Qué tipo guarda números enteros?",
+    "opciones": [
+      "int",
+      "string",
+      "bool",
+      "float"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 77,
+    "enunciado": "¿Qué tipo guarda números decimales?",
+    "opciones": [
+      "float",
+      "int",
+      "bool",
+      "string"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 78,
+    "enunciado": "¿Qué estructura agrupa código reutilizable?",
+    "opciones": [
+      "function",
+      "loop",
+      "variable",
+      "array"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 79,
+    "enunciado": "¿Qué palabra retorna valor en función?",
+    "opciones": [
+      "return",
+      "send",
+      "give",
+      "back"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 80,
+    "enunciado": "¿Qué estructura define clase?",
+    "opciones": [
+      "class",
+      "object",
+      "type",
+      "struct"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 81,
+    "enunciado": "¿Qué es bug en programación?",
+    "opciones": [
+      "Error en código",
+      "Lenguaje",
+      "Servidor",
+      "Editor"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 82,
+    "enunciado": "¿Qué es debugging?",
+    "opciones": [
+      "Corregir errores",
+      "Compilar",
+      "Ejecutar",
+      "Diseñar"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Programación",
+    "dificultad": "facil"
+  },
+  {
+    "id": 83,
+    "enunciado": "¿Qué herramienta gestiona paquetes JS?",
+    "opciones": [
+      "npm",
+      "git",
+      "pip",
+      "apt"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Web",
+    "dificultad": "facil"
+  },
+  {
+    "id": 84,
+    "enunciado": "¿Qué comando instala paquete npm?",
+    "opciones": [
+      "npm install",
+      "npm add",
+      "npm get",
+      "npm push"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Web",
+    "dificultad": "facil"
+  },
+  {
+    "id": 85,
+    "enunciado": "¿Qué archivo configura proyecto Node?",
+    "opciones": [
+      "package.json",
+      "node.config",
+      "npm.txt",
+      "project.js"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Web",
+    "dificultad": "facil"
+  },
+  {
+    "id": 86,
+    "enunciado": "¿Qué empresa creó Java?",
+    "opciones": [
+      "Sun Microsystems",
+      "Microsoft",
+      "Google",
+      "IBM"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Historia",
+    "dificultad": "facil"
+  },
+  {
+    "id": 87,
+    "enunciado": "¿Qué empresa creó Python?",
+    "opciones": [
+      "Google",
+      "Microsoft",
+      "Python Software Foundation",
+      "Apple"
+    ],
+    "indiceCorrecto": 2,
+    "categoria": "Historia",
+    "dificultad": "facil"
+  },
+  {
+    "id": 88,
+    "enunciado": "¿Qué sistema controla versiones GitHub?",
+    "opciones": [
+      "Git",
+      "SVN",
+      "Mercurial",
+      "CVS"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Herramientas",
+    "dificultad": "facil"
+  },
+  {
+    "id": 89,
+    "enunciado": "¿Qué comando crea rama en Git?",
+    "opciones": [
+      "git branch",
+      "git fork",
+      "git create",
+      "git new"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Herramientas",
+    "dificultad": "facil"
+  },
+  {
+    "id": 90,
+    "enunciado": "¿Qué comando cambia de rama?",
+    "opciones": [
+      "git switch",
+      "git move",
+      "git change",
+      "git branch"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Herramientas",
+    "dificultad": "facil"
+  },
+  {
+    "id": 91,
+    "enunciado": "¿Qué significa CPU?",
+    "opciones": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Program Unit",
+      "Control Processing Unit"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Hardware",
+    "dificultad": "facil"
+  },
+  {
+    "id": 92,
+    "enunciado": "¿Qué significa RAM?",
+    "opciones": [
+      "Random Access Memory",
+      "Read Access Memory",
+      "Run Access Memory",
+      "Rapid Access Module"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Hardware",
+    "dificultad": "facil"
+  },
+  {
+    "id": 93,
+    "enunciado": "¿Qué sistema operativo es open source?",
+    "opciones": [
+      "Linux",
+      "Windows",
+      "macOS",
+      "iOS"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Software",
+    "dificultad": "facil"
+  },
+  {
+    "id": 94,
+    "enunciado": "¿Qué navegador creó Google?",
+    "opciones": [
+      "Chrome",
+      "Firefox",
+      "Edge",
+      "Safari"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Software",
+    "dificultad": "facil"
+  },
+  {
+    "id": 95,
+    "enunciado": "¿Qué motor usa Chrome?",
+    "opciones": [
+      "Blink",
+      "Gecko",
+      "WebKit",
+      "Trident"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Software",
+    "dificultad": "facil"
+  },
+  {
+    "id": 96,
+    "enunciado": "¿Qué símbolo inicia comentario en JavaScript?",
+    "opciones": [
+      "//",
+      "#",
+      "--",
+      "**"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Web",
+    "dificultad": "facil"
+  },
+  {
+    "id": 97,
+    "enunciado": "¿Qué palabra declara variable en JavaScript moderno?",
+    "opciones": [
+      "let",
+      "var",
+      "const",
+      "int"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Web",
+    "dificultad": "facil"
+  },
+  {
+    "id": 98,
+    "enunciado": "¿Qué método convierte texto a número en JS?",
+    "opciones": [
+      "parseInt()",
+      "toString()",
+      "NumberText()",
+      "convert()"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Web",
+    "dificultad": "facil"
+  },
+  {
+    "id": 99,
+    "enunciado": "¿Qué estructura usa React para componentes?",
+    "opciones": [
+      "Component",
+      "Class",
+      "Module",
+      "Widget"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Web",
+    "dificultad": "facil"
+  },
+  {
+    "id": 100,
+    "enunciado": "¿Qué archivo inicia app Flutter?",
+    "opciones": [
+      "main.dart",
+      "app.dart",
+      "start.dart",
+      "index.dart"
+    ],
+    "indiceCorrecto": 0,
+    "categoria": "Mobile",
+    "dificultad": "facil"
+  }
+]
