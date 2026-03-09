@@ -63,7 +63,7 @@ La interfaz también muestra:
 ## Respuesta correcta
 
 <p align="center">
-<img src="assets/4.jpg" width="260">
+<img src="assets/5.jpg" width="260">
 </p>
 
 Cuando el usuario selecciona la respuesta correcta:
@@ -77,7 +77,7 @@ Cuando el usuario selecciona la respuesta correcta:
 ## Respuesta incorrecta
 
 <p align="center">
-<img src="assets/5.jpg" width="260">
+<img src="assets/4.jpg" width="260">
 </p>
 
 Si el usuario selecciona una respuesta incorrecta:
