@@ -32,7 +32,7 @@ En esta sección se explica cómo funciona el juego:
 ## Pantalla de presentación
 
 <p align="center">
-<img src="assets/2.jpg" width="260">
+<img src="assets/2.jpg" width="200">
 </p>
 
 En esta pantalla se muestra la introducción de la aplicación junto con los **integrantes del equipo desarrollador**.
@@ -44,7 +44,7 @@ El usuario puede tocar la pantalla para continuar hacia la trivia.
 ## Preguntas de la trivia
 
 <p align="center">
-<img src="assets/3.jpg" width="260">
+<img src="assets/3.jpg" width="200">
 </p>
 
 Durante el juego se presenta una pregunta junto con **cuatro posibles respuestas** identificadas con letras.
@@ -63,7 +63,7 @@ La interfaz también muestra:
 ## Respuesta correcta
 
 <p align="center">
-<img src="assets/5.jpg" width="260">
+<img src="assets/5.jpg" width="200">
 </p>
 
 Cuando el usuario selecciona la respuesta correcta:
@@ -77,7 +77,7 @@ Cuando el usuario selecciona la respuesta correcta:
 ## Respuesta incorrecta
 
 <p align="center">
-<img src="assets/4.jpg" width="260">
+<img src="assets/4.jpg" width="200">
 </p>
 
 Si el usuario selecciona una respuesta incorrecta:
@@ -91,7 +91,7 @@ Si el usuario selecciona una respuesta incorrecta:
 ## Puntaje Final
 
 <p align="center">
-<img src="assets/6.jpg" width="260">
+<img src="assets/6.jpg" width="200">
 </p>
 
 Una vez terminado el juego el usuario podra visualizar lo siguiente.
