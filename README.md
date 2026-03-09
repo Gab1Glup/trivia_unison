@@ -88,7 +88,7 @@ Si el usuario selecciona una respuesta incorrecta:
 
 ---
 
-## Regresar al menú principal
+## Puntaje Final
 
 <p align="center">
 <img src="assets/6.jpg" width="260">
