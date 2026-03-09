@@ -17,15 +17,10 @@ La aplicación presenta preguntas tipo trivia donde el jugador debe seleccionar 
 Al iniciar la aplicación se muestra la pantalla principal donde el usuario puede ver:
 
 - El nombre de la aplicación **Trivia UNISON**
-- Las instrucciones básicas del juego
-- El botón **Comenzar** para iniciar la trivia.
 
-En esta sección se explica cómo funciona el juego:
+En esta pantalla se muestra la introducción de la aplicación junto con los **integrantes del equipo desarrollador**.
 
-- La trivia contiene **10 preguntas**
-- Cada pregunta tiene **15 segundos para responder**
-- Cada pregunta tiene **4 opciones de respuesta**
-- El usuario gana puntos por respuestas correctas.
+El usuario puede tocar la pantalla para continuar hacia la trivia.
 
 ---
 
@@ -35,9 +30,16 @@ En esta sección se explica cómo funciona el juego:
 <img src="assets/2.jpg" width="200">
 </p>
 
-En esta pantalla se muestra la introducción de la aplicación junto con los **integrantes del equipo desarrollador**.
+En esta pantalla se muestran:
+- Las instrucciones básicas del juego
+- El botón **Comenzar** para iniciar la trivia.
 
-El usuario puede tocar la pantalla para continuar hacia la trivia.
+En esta sección se explica cómo funciona el juego:
+
+- La trivia contiene **10 preguntas**
+- Cada pregunta tiene **15 segundos para responder**
+- Cada pregunta tiene **4 opciones de respuesta**
+- El usuario gana puntos por respuestas correctas.
 
 ---
 
@@ -106,12 +108,8 @@ Una vez terminado el juego el usuario podra visualizar lo siguiente.
 
 - **Flutter**
 - **Dart**
-- **C++**
-- **CMake**
-- **Swift**
-- **C**
-- **HTML**
-
+- **Android SDK**
+- **JVM (renderizar en computadora)**
 
 ---
 
