@@ -88,6 +88,20 @@ Si el usuario selecciona una respuesta incorrecta:
 
 ---
 
+## Regresar al menú principal
+
+<p align="center">
+<img src="assets/6.jpg" width="260">
+</p>
+
+Una vez terminado el juego el usuario podra visualizar lo siguiente.
+
+- Su puntuación obtenida.
+- Un botón para volver a jugar.
+- Un botón para volver al menú principal
+
+---
+
 # ⚙️ Tecnologías utilizadas
 
 - **Flutter**
