@@ -11,7 +11,7 @@ La aplicación presenta preguntas tipo trivia donde el jugador debe seleccionar 
 ## Pantalla de inicio
 
 <p align="center">
-<img src="assets/1.jpg" width="260">
+<img src="assets/1.jpg" width="200">
 </p>
 
 Al iniciar la aplicación se muestra la pantalla principal donde el usuario puede ver:
@@ -106,6 +106,12 @@ Una vez terminado el juego el usuario podra visualizar lo siguiente.
 
 - **Flutter**
 - **Dart**
+- **C++**
+- **CMake**
+- **Swift**
+- **C**
+- **HTML**
+
 
 ---
 
